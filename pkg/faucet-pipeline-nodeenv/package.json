@@ -1,0 +1,19 @@
+{
+	"name": "faucet-pipeline-nodeenv",
+	"version": "2.1.6",
+	"description": "process.env.NODE_ENV replacement for faucet-pipeline",
+	"author": "Niels Grewe",
+	"license": "Apache-2.0",
+	"homepage": "https://www.faucet-pipeline.org",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/faucet-pipeline/faucet-pipeline-js.git"
+	},
+	"bugs": {
+		"url": "https://github.com/faucet-pipeline/faucet-pipeline-js/issues"
+	},
+	"dependencies": {
+		"@rollup/plugin-replace": "~2.3.3",
+		"faucet-pipeline-js": "2.1.6"
+	}
+}
